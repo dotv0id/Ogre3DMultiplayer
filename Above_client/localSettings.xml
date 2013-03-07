@@ -1,0 +1,669 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Hashtable id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>25</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>47</HashSize>
+<Keys href="#ref-2"/>
+<Values href="#ref-3"/>
+</a1:Hashtable>
+<SOAP-ENC:Array id="ref-2" SOAP-ENC:arrayType="xsd:anyType[23]">
+<item id="ref-4" xsi:type="SOAP-ENC:string">SnapshotReferencees_ColWidths</item>
+<item id="ref-5" xsi:type="SOAP-ENC:string">CallTreeFunctionSummary_ColWidths</item>
+<item id="ref-6" xsi:type="SOAP-ENC:string">CallTreeNativeStackTrace_ColWidths</item>
+<item id="ref-7" xsi:type="SOAP-ENC:string">TraceBufferViewer_OrderArray</item>
+<item id="ref-8" xsi:type="SOAP-ENC:string">SnapshotReferencers_OrderArray</item>
+<item id="ref-9" xsi:type="SOAP-ENC:string">StackFunctionNames_ColWidths</item>
+<item id="ref-10" xsi:type="SOAP-ENC:string">SnapshotReferencees_OrderArray</item>
+<item id="ref-11" xsi:type="SOAP-ENC:string">CallTree_OrderArray</item>
+<item id="ref-12" xsi:type="SOAP-ENC:string">CallTree_ColWidths</item>
+<item id="ref-13" xsi:type="SOAP-ENC:string">SnapshotPathToRoot_OrderArray</item>
+<item id="ref-14" xsi:type="SOAP-ENC:string">SnapshotMain_OrderArray</item>
+<item id="ref-15" xsi:type="SOAP-ENC:string">SnapshotMain_ColWidths</item>
+<item id="ref-16" xsi:type="SOAP-ENC:string">CallTreeNativeMemory_ColWidths</item>
+<item id="ref-17" xsi:type="SOAP-ENC:string">TraceBufferViewer_ColWidths</item>
+<item id="ref-18" xsi:type="SOAP-ENC:string">CallTreeManagedHeap_OrderArray</item>
+<item id="ref-19" xsi:type="SOAP-ENC:string">DefaultHookSafety</item>
+<item id="ref-20" xsi:type="SOAP-ENC:string">CallTreeFunctionSummary_OrderArray</item>
+<item id="ref-21" xsi:type="SOAP-ENC:string">StackFunctionNames_OrderArray</item>
+<item id="ref-22" xsi:type="SOAP-ENC:string">SnapshotPathToRoot_ColWidths</item>
+<item id="ref-23" xsi:type="SOAP-ENC:string">CallTreeManagedHeap_ColWidths</item>
+<item id="ref-24" xsi:type="SOAP-ENC:string">CallTreeNativeStackTrace_OrderArray</item>
+<item id="ref-25" xsi:type="SOAP-ENC:string">SnapshotReferencers_ColWidths</item>
+<item id="ref-26" xsi:type="SOAP-ENC:string">CallTreeNativeMemory_OrderArray</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-3" SOAP-ENC:arrayType="xsd:anyType[23]">
+<item href="#ref-27"/>
+<item href="#ref-28"/>
+<item href="#ref-29"/>
+<item href="#ref-30"/>
+<item href="#ref-31"/>
+<item href="#ref-32"/>
+<item href="#ref-33"/>
+<item href="#ref-34"/>
+<item href="#ref-35"/>
+<item href="#ref-36"/>
+<item href="#ref-37"/>
+<item href="#ref-38"/>
+<item href="#ref-39"/>
+<item href="#ref-40"/>
+<item href="#ref-41"/>
+<item xsi:type="xsd:int">5</item>
+<item href="#ref-42"/>
+<item href="#ref-43"/>
+<item href="#ref-44"/>
+<item href="#ref-45"/>
+<item href="#ref-46"/>
+<item href="#ref-47"/>
+<item href="#ref-48"/>
+</SOAP-ENC:Array>
+<a1:Hashtable id="ref-27" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>2</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>11</HashSize>
+<Keys href="#ref-49"/>
+<Values href="#ref-50"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-28" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>29</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>47</HashSize>
+<Keys href="#ref-51"/>
+<Values href="#ref-52"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-29" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>16</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>23</HashSize>
+<Keys href="#ref-53"/>
+<Values href="#ref-54"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-30" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>23</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>23</HashSize>
+<Keys href="#ref-55"/>
+<Values href="#ref-56"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-31" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>4</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>11</HashSize>
+<Keys href="#ref-57"/>
+<Values href="#ref-58"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-32" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>1</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>11</HashSize>
+<Keys href="#ref-59"/>
+<Values href="#ref-60"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-33" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>4</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>11</HashSize>
+<Keys href="#ref-61"/>
+<Values href="#ref-62"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-34" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>29</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>23</HashSize>
+<Keys href="#ref-63"/>
+<Values href="#ref-64"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-35" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>25</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>23</HashSize>
+<Keys href="#ref-65"/>
+<Values href="#ref-66"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-36" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>4</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>11</HashSize>
+<Keys href="#ref-67"/>
+<Values href="#ref-68"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-37" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>17</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>23</HashSize>
+<Keys href="#ref-69"/>
+<Values href="#ref-70"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-38" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>9</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>23</HashSize>
+<Keys href="#ref-71"/>
+<Values href="#ref-72"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-39" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>21</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>23</HashSize>
+<Keys href="#ref-73"/>
+<Values href="#ref-74"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-40" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>12</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>23</HashSize>
+<Keys href="#ref-75"/>
+<Values href="#ref-76"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-41" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>6</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>11</HashSize>
+<Keys href="#ref-77"/>
+<Values href="#ref-78"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-42" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>36</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>47</HashSize>
+<Keys href="#ref-79"/>
+<Values href="#ref-80"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-43" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>2</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>11</HashSize>
+<Keys href="#ref-81"/>
+<Values href="#ref-82"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-44" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>2</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>11</HashSize>
+<Keys href="#ref-83"/>
+<Values href="#ref-84"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-45" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>5</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>11</HashSize>
+<Keys href="#ref-85"/>
+<Values href="#ref-86"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-46" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>17</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>23</HashSize>
+<Keys href="#ref-87"/>
+<Values href="#ref-88"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-47" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>2</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>11</HashSize>
+<Keys href="#ref-89"/>
+<Values href="#ref-90"/>
+</a1:Hashtable>
+<a1:Hashtable id="ref-48" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>25</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>23</HashSize>
+<Keys href="#ref-91"/>
+<Values href="#ref-92"/>
+</a1:Hashtable>
+<SOAP-ENC:Array id="ref-49" SOAP-ENC:arrayType="xsd:anyType[2]">
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-50" SOAP-ENC:arrayType="xsd:anyType[2]">
+<item xsi:type="xsd:int">75</item>
+<item xsi:type="xsd:int">175</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-51" SOAP-ENC:arrayType="xsd:anyType[17]">
+<item xsi:type="xsd:int">16</item>
+<item xsi:type="xsd:int">15</item>
+<item xsi:type="xsd:int">14</item>
+<item xsi:type="xsd:int">13</item>
+<item xsi:type="xsd:int">12</item>
+<item xsi:type="xsd:int">11</item>
+<item xsi:type="xsd:int">10</item>
+<item xsi:type="xsd:int">9</item>
+<item xsi:type="xsd:int">8</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-52" SOAP-ENC:arrayType="xsd:anyType[17]">
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">51</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">105</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">114</item>
+<item xsi:type="xsd:int">105</item>
+<item xsi:type="xsd:int">95</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">81</item>
+<item xsi:type="xsd:int">97</item>
+<item xsi:type="xsd:int">59</item>
+<item xsi:type="xsd:int">39</item>
+<item xsi:type="xsd:int">46</item>
+<item xsi:type="xsd:int">100</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-53" SOAP-ENC:arrayType="xsd:anyType[8]">
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-54" SOAP-ENC:arrayType="xsd:anyType[8]">
+<item xsi:type="xsd:int">44</item>
+<item xsi:type="xsd:int">64</item>
+<item xsi:type="xsd:int">58</item>
+<item xsi:type="xsd:int">66</item>
+<item xsi:type="xsd:int">60</item>
+<item xsi:type="xsd:int">59</item>
+<item xsi:type="xsd:int">53</item>
+<item xsi:type="xsd:int">100</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-55" SOAP-ENC:arrayType="xsd:anyType[11]">
+<item xsi:type="xsd:int">10</item>
+<item xsi:type="xsd:int">9</item>
+<item xsi:type="xsd:int">8</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-56" SOAP-ENC:arrayType="xsd:anyType[11]">
+<item xsi:type="xsd:int">10</item>
+<item xsi:type="xsd:int">9</item>
+<item xsi:type="xsd:int">8</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-57" SOAP-ENC:arrayType="xsd:anyType[2]">
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-58" SOAP-ENC:arrayType="xsd:anyType[2]">
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-59" SOAP-ENC:arrayType="xsd:anyType[1]">
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-60" SOAP-ENC:arrayType="xsd:anyType[1]">
+<item xsi:type="xsd:int">500</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-61" SOAP-ENC:arrayType="xsd:anyType[2]">
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-62" SOAP-ENC:arrayType="xsd:anyType[2]">
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-63" SOAP-ENC:arrayType="xsd:anyType[14]">
+<item xsi:type="xsd:int">13</item>
+<item xsi:type="xsd:int">12</item>
+<item xsi:type="xsd:int">11</item>
+<item xsi:type="xsd:int">10</item>
+<item xsi:type="xsd:int">9</item>
+<item xsi:type="xsd:int">8</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-64" SOAP-ENC:arrayType="xsd:anyType[14]">
+<item xsi:type="xsd:int">13</item>
+<item xsi:type="xsd:int">12</item>
+<item xsi:type="xsd:int">11</item>
+<item xsi:type="xsd:int">10</item>
+<item xsi:type="xsd:int">9</item>
+<item xsi:type="xsd:int">8</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-65" SOAP-ENC:arrayType="xsd:anyType[14]">
+<item xsi:type="xsd:int">13</item>
+<item xsi:type="xsd:int">12</item>
+<item xsi:type="xsd:int">11</item>
+<item xsi:type="xsd:int">10</item>
+<item xsi:type="xsd:int">9</item>
+<item xsi:type="xsd:int">8</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-66" SOAP-ENC:arrayType="xsd:anyType[14]">
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">51</item>
+<item xsi:type="xsd:int">45</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">105</item>
+<item xsi:type="xsd:int">114</item>
+<item xsi:type="xsd:int">105</item>
+<item xsi:type="xsd:int">95</item>
+<item xsi:type="xsd:int">60</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">38</item>
+<item xsi:type="xsd:int">83</item>
+<item xsi:type="xsd:int">192</item>
+<item xsi:type="xsd:int">100</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-67" SOAP-ENC:arrayType="xsd:anyType[2]">
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-68" SOAP-ENC:arrayType="xsd:anyType[2]">
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-69" SOAP-ENC:arrayType="xsd:anyType[8]">
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-70" SOAP-ENC:arrayType="xsd:anyType[8]">
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-71" SOAP-ENC:arrayType="xsd:anyType[8]">
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-72" SOAP-ENC:arrayType="xsd:anyType[8]">
+<item xsi:type="xsd:int">85</item>
+<item xsi:type="xsd:int">85</item>
+<item xsi:type="xsd:int">85</item>
+<item xsi:type="xsd:int">85</item>
+<item xsi:type="xsd:int">75</item>
+<item xsi:type="xsd:int">85</item>
+<item xsi:type="xsd:int">75</item>
+<item xsi:type="xsd:int">250</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-73" SOAP-ENC:arrayType="xsd:anyType[12]">
+<item xsi:type="xsd:int">11</item>
+<item xsi:type="xsd:int">10</item>
+<item xsi:type="xsd:int">9</item>
+<item xsi:type="xsd:int">8</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-74" SOAP-ENC:arrayType="xsd:anyType[12]">
+<item xsi:type="xsd:int">82</item>
+<item xsi:type="xsd:int">44</item>
+<item xsi:type="xsd:int">64</item>
+<item xsi:type="xsd:int">45</item>
+<item xsi:type="xsd:int">100</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">70</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">72</item>
+<item xsi:type="xsd:int">59</item>
+<item xsi:type="xsd:int">65</item>
+<item xsi:type="xsd:int">100</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-75" SOAP-ENC:arrayType="xsd:anyType[11]">
+<item xsi:type="xsd:int">10</item>
+<item xsi:type="xsd:int">9</item>
+<item xsi:type="xsd:int">8</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-76" SOAP-ENC:arrayType="xsd:anyType[11]">
+<item xsi:type="xsd:int">50</item>
+<item xsi:type="xsd:int">50</item>
+<item xsi:type="xsd:int">50</item>
+<item xsi:type="xsd:int">100</item>
+<item xsi:type="xsd:int">100</item>
+<item xsi:type="xsd:int">50</item>
+<item xsi:type="xsd:int">50</item>
+<item xsi:type="xsd:int">50</item>
+<item xsi:type="xsd:int">75</item>
+<item xsi:type="xsd:int">75</item>
+<item xsi:type="xsd:int">75</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-77" SOAP-ENC:arrayType="xsd:anyType[3]">
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-78" SOAP-ENC:arrayType="xsd:anyType[3]">
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-79" SOAP-ENC:arrayType="xsd:anyType[17]">
+<item xsi:type="xsd:int">16</item>
+<item xsi:type="xsd:int">15</item>
+<item xsi:type="xsd:int">14</item>
+<item xsi:type="xsd:int">13</item>
+<item xsi:type="xsd:int">12</item>
+<item xsi:type="xsd:int">11</item>
+<item xsi:type="xsd:int">10</item>
+<item xsi:type="xsd:int">9</item>
+<item xsi:type="xsd:int">8</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-80" SOAP-ENC:arrayType="xsd:anyType[17]">
+<item xsi:type="xsd:int">16</item>
+<item xsi:type="xsd:int">15</item>
+<item xsi:type="xsd:int">14</item>
+<item xsi:type="xsd:int">13</item>
+<item xsi:type="xsd:int">12</item>
+<item xsi:type="xsd:int">11</item>
+<item xsi:type="xsd:int">10</item>
+<item xsi:type="xsd:int">9</item>
+<item xsi:type="xsd:int">8</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-81" SOAP-ENC:arrayType="xsd:anyType[1]">
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-82" SOAP-ENC:arrayType="xsd:anyType[1]">
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-83" SOAP-ENC:arrayType="xsd:anyType[2]">
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-84" SOAP-ENC:arrayType="xsd:anyType[2]">
+<item xsi:type="xsd:int">75</item>
+<item xsi:type="xsd:int">200</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-85" SOAP-ENC:arrayType="xsd:anyType[3]">
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-86" SOAP-ENC:arrayType="xsd:anyType[3]">
+<item xsi:type="xsd:int">41</item>
+<item xsi:type="xsd:int">51</item>
+<item xsi:type="xsd:int">300</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-87" SOAP-ENC:arrayType="xsd:anyType[8]">
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-88" SOAP-ENC:arrayType="xsd:anyType[8]">
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-89" SOAP-ENC:arrayType="xsd:anyType[2]">
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-90" SOAP-ENC:arrayType="xsd:anyType[2]">
+<item xsi:type="xsd:int">75</item>
+<item xsi:type="xsd:int">175</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-91" SOAP-ENC:arrayType="xsd:anyType[12]">
+<item xsi:type="xsd:int">11</item>
+<item xsi:type="xsd:int">10</item>
+<item xsi:type="xsd:int">9</item>
+<item xsi:type="xsd:int">8</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-92" SOAP-ENC:arrayType="xsd:anyType[12]">
+<item xsi:type="xsd:int">11</item>
+<item xsi:type="xsd:int">10</item>
+<item xsi:type="xsd:int">9</item>
+<item xsi:type="xsd:int">8</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">0</item>
+</SOAP-ENC:Array>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

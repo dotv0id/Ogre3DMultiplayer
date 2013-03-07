@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="cFrameListener" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EGgAAEACABAAYAAACAAIACiEFBAECABACkAAEDEQSAg=</HashCode>
+      <FileName>Headers\cFrameListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="coreApp" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABEBgASMESAwAIAAQAAoIABCEBgBECAQQUhIAVMg=</HashCode>
+      <FileName>Headers\core.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameWorld" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAABAEAEAAAAAAAQAAABAAAAAAA=</HashCode>
+      <FileName>Headers\gameWorld.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlobalVariables" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARQAAAAFAAAAAAAACCECAgAACQQIggQEgAACAAAAAQ=</HashCode>
+      <FileName>Headers\globalVars.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LinkedList" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABgAIIAAAAAABAAAAAAAAAAAAggCAAAAAAA=</HashCode>
+      <FileName>Headers\LinkedList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Network" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAACAAOAAAAAAAAAAAQAQBAAAAAIAIAhIAQAAgA=</HashCode>
+      <FileName>Headers\Network.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unit" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAYAAAAAAAAIAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Headers\Unit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="userCharacter" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAqGAAAEAIIAAAIgEgAQACEQJBgACGAGjlxBpiEEgU=</HashCode>
+      <FileName>Headers\userCharacter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RakNetworkFactory" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAUACBAAAAFEBAAABAQABBgEFAQAAEAAAIAAACAA=</HashCode>
+      <FileName>Headers\Raknet\RakNetworkFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RakPeerInterface" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IMgABiECgExUADJINGADxfQgCCIBIFmWJSFJHgIIYAA=</HashCode>
+      <FileName>Headers\Raknet\RakPeerInterface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="POPack" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Headers\DataTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="initUpdate" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAABAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Headers\DataTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CharDescPack" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEBAAAAAAAAAAIAEAAAAAAAAACAAAIAAAAAA=</HashCode>
+      <FileName>Headers\DataTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="userUnitData" Collapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAEBAAAAAAAAAAIAEAEAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Headers\DataTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="listNode" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAIAAEA=</HashCode>
+      <FileName>Headers\LinkedList.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SocketDescriptor" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAQAAAAAAAAAAAAAAAAAAAAAAgAgAAAAAAAAAA=</HashCode>
+      <FileName>Headers\Raknet\RakNetTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SystemAddress" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAACAAwAAgIAAAAgAAAAAAAAAAiA=</HashCode>
+      <FileName>Headers\Raknet\RakNetTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RPCParameters" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABAAAAAAkAAAIAAAAAAAgAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Headers\Raknet\RakNetTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RakNetGUID" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAACAAwAAAAAAAAAIAAAAAAAAAiA=</HashCode>
+      <FileName>Headers\Raknet\RakNetTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="NetworkID" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABACAAwAQAAAAAAAAAAAAQAEAIiA=</HashCode>
+      <FileName>Headers\Raknet\RakNetTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Packet" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAEAAAEAAAgAEAAAABAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Headers\Raknet\RakNetTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="UniqueIDType" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Headers\Raknet\RakNetTypes.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="SystemIndex" Collapsed="true">
+    <Position X="5.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Headers\Raknet\RakNetTypes.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="RPCIndex" Collapsed="true">
+    <Position X="4" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Headers\Raknet\RakNetTypes.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="MessageID" Collapsed="true">
+    <Position X="2.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Headers\Raknet\RakNetTypes.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="BitSize_t" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Headers\Raknet\RakNetTypes.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="__unnamed_01cd_1" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAARAAAQAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Headers\DataTypes.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="actions" Collapsed="true">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAgA=</HashCode>
+      <FileName>Headers\userCharacter.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DefaultMessageIDTypes" Collapsed="true">
+    <Position X="4" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oVQKgVFYLpWgQlRIOAgm1IAQAEBqSAOgM4LoSAGUQ9g=</HashCode>
+      <FileName>Headers\Raknet\MessageIdentifiers.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
